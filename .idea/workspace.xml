@@ -10,13 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddc6127-adc4-420c-995d-099ead2a2a31" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/src/base/BaseStatefulWidget.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/base/BaseView.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/ui/MovieRow.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/ui/customWidget/LoadingDialog.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/models/MovieModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/models/MovieModel.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/ui/movie_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/ui/movie_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/App.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/App.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -31,13 +27,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="movie_list.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="movie_detail.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/ui/movie_detail.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie_list.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/src/ui/movie_list.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            <state relative-caret-position="-68">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/App.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie_detail_bloc.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,6 +102,8 @@
       <find>_apiKey</find>
       <find>_vote_average</find>
       <find>_Result</find>
+      <find>title</find>
+      <find>Transform</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,21 +118,21 @@
         <option value="$PROJECT_DIR$/lib/App.dart" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/src/models/item_model.dart" />
-        <option value="$PROJECT_DIR$/lib/src/App.dart" />
         <option value="$PROJECT_DIR$/test/widget_test.dart" />
         <option value="$PROJECT_DIR$/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/src/blocs/movies_bloc.dart" />
         <option value="$PROJECT_DIR$/lib/src/models/trailer_model.dart" />
         <option value="$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart" />
         <option value="$PROJECT_DIR$/lib/src/resources/repository.dart" />
-        <option value="$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart" />
         <option value="$PROJECT_DIR$/lib/src/resources/movie_detail_bloc_provider.dart" />
-        <option value="$PROJECT_DIR$/lib/src/ui/movie_detail.dart" />
         <option value="$PROJECT_DIR$/lib/src/ui/customWidget/LoadingDialog.dart" />
         <option value="$PROJECT_DIR$/lib/src/base/BaseStatefulWidget.dart" />
         <option value="$PROJECT_DIR$/lib/src/models/MovieModel.dart" />
         <option value="$PROJECT_DIR$/lib/src/ui/MovieRow.dart" />
         <option value="$PROJECT_DIR$/lib/src/ui/movie_list.dart" />
+        <option value="$PROJECT_DIR$/lib/src/App.dart" />
+        <option value="$PROJECT_DIR$/lib/src/ui/movie_detail.dart" />
+        <option value="$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart" />
       </list>
     </option>
   </component>
@@ -260,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,9 +315,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.3293718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.046712805" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.03633218" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4100346" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.38062283" />
       <window_info id="Captures" order="2" />
@@ -390,26 +435,6 @@
     <entry file="file://$PROJECT_DIR$/lib/MovieBloc.dart" />
     <entry file="file://$PROJECT_DIR$/lib/MovieProvider.dart" />
     <entry file="file://$PROJECT_DIR$/lib/API.dart" />
-    <entry file="file://$PROJECT_DIR$/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/App.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/rxdart-0.18.1/lib/src/subjects/subject.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -454,30 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/ui/movie_detail.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
@@ -548,12 +553,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/ui/movie_list.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/App.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/ui/movie_list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/ui/movie_detail.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
